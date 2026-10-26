@@ -1,4 +1,4 @@
 ---
 title: About Me
 ---
-I'm learning Hugo, layout is 'single' by default
+Java / Spring Boot / AWS / Agentic AI / Developer
