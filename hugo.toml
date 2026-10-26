@@ -1,6 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+baseURL = 'https://choekstra.github.io/my-si-blog/'
+languageCode = 'en-us'
+title = 'My SI Blog'
+theme = 'PaperMod'
+
+
+
